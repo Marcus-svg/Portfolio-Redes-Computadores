@@ -108,5 +108,4 @@ Pretendo continuar estudando sobre **Segurança de Redes** e **Cloud Computing**
 * *Materiais de Aula:* Slides e PDFs da Professora Stéphany Martins (Conceitos Básicos, Modelo OSI/TCPIP, Packet Tracer, Roteamento, Segurança).
 
 
----
-*Este portfólio foi desenvolvido como requisito parcial de avaliação da disciplina de Redes de Computadores.*
+
