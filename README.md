@@ -106,9 +106,7 @@ Pretendo continuar estudando sobre **Segurança de Redes** e **Cloud Computing**
 ### 📚 Referências Bibliográficas
 
 * *Materiais de Aula:* Slides e PDFs da Professora Stéphany Martins (Conceitos Básicos, Modelo OSI/TCPIP, Packet Tracer, Roteamento, Segurança).
-* *Kurose, J. F., & Ross, K. W.*: Redes de Computadores e a Internet.
-* *Tanenbaum, A. S.*: Organização Estruturada de Computadores.
-* *ISO/IEC 27000 Family*: Information security management.
+
 
 ---
 *Este portfólio foi desenvolvido como requisito parcial de avaliação da disciplina de Redes de Computadores.*
