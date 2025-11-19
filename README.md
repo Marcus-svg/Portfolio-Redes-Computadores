@@ -71,7 +71,7 @@ Estudamos como os roteadores escolhem o melhor caminho para os dados na Camada d
 * **Endereçamento IP:** Pratiquei o cálculo de sub-redes e máscaras, fundamental para segmentar redes e evitar desperdício de IPs.
 
   
-### 5.🔌 Conexão com o Mercado (Fabiano):**
+### 5.🔌 Conexão com o Mercado (Fabiano):
  Durante a disciplina a professora convidou um profissional que trabalha a muito tempo no mercado, ele foi responsável por uma palestra que trouxe uma perspectiva prática fundamental que dialoga com a teoria. Ele destacou a importância crítica de se conhecer profundamente a diversidade de **equipamentos de rede**.
 
 Como Fabiano pontuou, não existe uma "bala de prata": existem locais e cenários específicos que demandam equipamentos diferentes para servir melhor ao propósito daquela rede. Isso reforça minha leitura sobre normas técnicas e a necessidade de avaliar o ambiente antes de definir a infraestrutura.
