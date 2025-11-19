@@ -70,7 +70,14 @@ Estudamos como os roteadores escolhem o melhor caminho para os dados na Camada d
 * **Roteamento Dinâmico:** Uso de protocolos como **RIP** e **OSPF** que atualizam as rotas automaticamente.
 * **Endereçamento IP:** Pratiquei o cálculo de sub-redes e máscaras, fundamental para segmentar redes e evitar desperdício de IPs.
 
-### 5. 🔒 Segurança da Informação
+  
+### 5.🔌 Conexão com o Mercado (Fabiano):**
+> Durante a disciplina, a palestra do profissional **Fabiano** trouxe uma perspectiva prática fundamental que dialoga com a teoria. Ele destacou a importância crítica de se conhecer profundamente a diversidade de **equipamentos de rede**.
+>
+> Como Fabiano pontuou, não existe uma "bala de prata": existem locais e cenários específicos que demandam equipamentos diferentes para servir melhor ao propósito daquela rede. Isso reforça minha leitura sobre normas técnicas (**Neves & Júnior, 2019**) e a necessidade de avaliar o ambiente antes de definir a infraestrutura.
+
+
+### 6. 🔒 Segurança da Informação
 *Protegendo o Ativo mais valioso*
 
 Finalizamos com a família de normas **ISO 27000** e os pilares da segurança da informação.
